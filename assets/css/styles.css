@@ -1,4 +1,4 @@
-/* entire webpage selector, setting up width, height, and spacing around all HTML elements */
+/* universal webpage selector, setting up width, height, and spacing around all HTML elements */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -19,19 +19,19 @@ header {
     color: #ffffff;
 }
 
-/* styles size of "Horiseon" text at top left of page and lists it horizontally */
+/* styles size of "Horiseon" text at the top left of the page and lists it horizontally */
 h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* styles color for all anchor tags on page and removes link underlines */
+/* styles color for all anchor tags on the page and removes link underlines */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/* styles text size for all paragraph tags on page */
+/* styles text size for all paragraph tags on the page */
 p {
     font-size: 16px;
 }
@@ -50,7 +50,7 @@ p {
     font-size: 20px;
 }
 
-/* removes icons in the unordered list in top right nav bar */
+/* removes icons in the unordered list in the top right nav bar */
 #nav-list {
     list-style-type: none;
 }
@@ -87,13 +87,13 @@ p {
     color: #ffffff;
 }
 
-/* styles text size for main content headers and adds spacing from the bottom of each */
+/* styles text size for the main content headers and adds spacing from the bottom of each */
 .content-1-headers {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/* class selector for images in sections 1 and 3 and moves them to the left with spacing from the right */
+/* class selector for the images in sections 1 and 3 and moves them to the left with spacing from the right */
 .section-imgs-left {
     float: left;
     margin-right: 25px;
@@ -101,7 +101,7 @@ p {
     max-height: 200px;
 }
 
-/* id selector for image in section 2 and moves it to the right with spacing from the left */
+/* id selector for the image in section 2 and moves it to the right with spacing from the left */
 #section-img-right {
     float: right;
     margin-left: 25px;
@@ -121,13 +121,13 @@ p {
     background-color: #2589bd;
 }
 
-/* styles color and spacing from the bottom for the content inside side bar */
+/* styles color and spacing from the bottom for the content inside the side bar */
 .content-2 {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* adds spacing from the bottom for the side bar headers and aligns them in center */
+/* adds spacing from the bottom for the side bar headers and aligns them in the center */
 .side-bar-headers {
     margin-bottom: 10px;
     text-align: center;
@@ -141,7 +141,7 @@ p {
     max-width: 150px;
 }
 
-/* styles font type and spacing around footer of the page and aligns text in the center */
+/* styles font type and spacing around the footer of the page and aligns the text in the center */
 footer {
     padding: 30px;
     clear: both;
