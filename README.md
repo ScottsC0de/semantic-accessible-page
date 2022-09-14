@@ -1,2 +1,2 @@
 # semantic-accessible-page
-A marketing webpage with semantic and accessible code.
+An accessible marketing webpage with semantic code.
