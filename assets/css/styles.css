@@ -70,7 +70,7 @@ p {
     background-position: center;
 }
 
-/* styling for the 3 blue content boxes (main content) on the page */
+/* styling for the 3 blue content boxes on the page */
 #main-content {
     width: 75%;
     display: inline-block;
@@ -105,7 +105,6 @@ p {
 #section-img-right {
     float: right;
     margin-left: 25px;
-    /* max-height for responsiveness */
     max-height: 200px;
 }
 
@@ -113,6 +112,7 @@ p {
 #side-bar {
     margin-right: 20px;
     padding: 20px;
+    /* clear is used when an element is next to a floated element */
     clear: both;
     float: right;
     width: 20%;
