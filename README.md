@@ -1,5 +1,5 @@
 # semantic-accessible-page
-An accessible marketing webpage with semantic code.
+An accessible marketing webpage with semantic HTML/CSS code.
 
 ## Description
 
